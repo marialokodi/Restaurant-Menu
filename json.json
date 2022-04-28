@@ -1,0 +1,186 @@
+{
+  "1": {
+    "image": "https://tazzcdn.akamaized.net/uploads/menu/3814/orig/Margherita.jpg",
+    "ingredients": "Tomato sauce, mozzarella, grana padano, basil, olive oil",
+    "name": "Margherita",
+    "price": "4.99 $",
+    "category": "pizza",
+    "quantity": "450-650 g"
+  },
+  "2": {
+    "image": "https://tazzcdn.akamaized.net/uploads/menu/3814/orig/Prosciutto_Cotto.jpg",
+    "ingredients": "Tomato sauce, mozzarella, prosciutto cotto",
+    "name": "Prosciutto cotto",
+    "price": "5.49 $",
+    "category": "pizza",
+    "quantity": "450-650 g"
+  },
+  "3": {
+    "image": "https://tazzcdn.akamaized.net/uploads/menu/3814/orig/Funghi.jpg",
+    "ingredients": "Tomato sauce, mozzarella, champignon mushrooms, garlic",
+    "name": "Funghi",
+    "price": "5.29 $",
+    "category": "pizza",
+    "quantity": "450-650 g"
+  },
+  "4": {
+    "image": "https://tazzcdn.akamaized.net/uploads/menu/3814/orig/Prosciutto_e_Funghi.jpg",
+    "ingredients": "Tomato sauce, mozzarella, prosciutto cotto, champignon mushrooms, garlic",
+    "name": "Prosciutto funghi",
+    "price": "5.49 $",
+    "category": "pizza",
+    "quantity": "450-650 g"
+  },
+  "5": {
+    "image": "https://tazzcdn.akamaized.net/uploads/menu/3814/orig/Crudo_e_Rucola.jpg",
+    "ingredients": "Tomato sauce, mozzarella, raw prosciutto, arugula, grana padano, cherry tomatoes, olive oil",
+    "name": "Crudo e rucola",
+    "price": "5.49 $",
+    "category": "pizza",
+    "quantity": "450-650 g"
+  },
+  "6": {
+    "image": "https://tazzcdn.akamaized.net/uploads/menu/3814/orig/Funghi.jpg",
+    "ingredients": "Tomato sauce, mozzarella, cooked ham, champignon mushrooms, artichokes, olives",
+    "name": "Capriciosa",
+    "price": "5.49 $",
+    "category": "pizza",
+    "quantity": "450-650 g"
+  },
+  "7": {
+    "image": "https://tazzcdn.akamaized.net/uploads/menu/3814/orig/Hawaii.jpg",
+    "ingredients": "Tomato sauce, mozzarella, cooked ham, pineapple",
+    "name": "Hawaii",
+    "price": "5.49 $",
+    "category": "pizza",
+    "quantity": "450-650 g"
+  },
+  "8": {
+    "image": "https://tazzcdn.akamaized.net/uploads/menu/3814/orig/Bufala.jpg",
+    "ingredients": "Tomato sauce, buffalo mozzarella, basil, olive oil",
+    "name": "Bufala",
+    "price": "5.49 $",
+    "category": "pizza",
+    "quantity": "450-650 g"
+  },
+  "9": {
+    "image": "https://tazzcdn.akamaized.net/uploads/menu/3814/orig/Regina.jpg",
+    "ingredients": "Tomato sauce, mozzarella, cooked ham, champignon mushrooms, corn",
+    "name": "Regina",
+    "price": "5.49 $",
+    "category": "pizza",
+    "quantity": "450-650 g"
+  },
+  "10": {
+    "image": "https://tazzcdn.akamaized.net/uploads/menu/3814/orig/Vegetariana.jpg",
+    "ingredients": "Tomato sauce, mozzarella, champignon mushrooms, peppers, red onions, corn, olives, cherry tomatoes",
+    "name": "Vegetariană",
+    "price": "5.49 $",
+    "category": "pizza",
+    "quantity": "450-650 g"
+  },
+  "11": {
+    "image": "https://tazzcdn.akamaized.net/uploads/menu/3814/orig/Formaggi_e_Rucola.jpg",
+    "ingredients": "Tomato sauce, mozzarella, emmentale, grana padano, gorgonzola, arugula, cherry tomatoes",
+    "name": "Formaggi e rucola",
+    "price": "5.49 $",
+    "category": "pizza",
+    "quantity": "450-650 g"
+  },
+  "12": {
+    "image": "https://tazzcdn.akamaized.net/uploads/menu/3814/orig/Quatro_Formagi.jpg",
+    "ingredients": "Tomato sauce, mozzarella, emmentaler, grana padano, gorgonzola",
+    "name": "Quattro formaggi",
+    "price": "5.49 $",
+    "category": "pizza",
+    "quantity": "450-650 g"
+  },
+  "13": {
+    "image": "https://tazzcdn.akamaized.net/uploads/menu/3814/orig/Con_Carne.jpg",
+    "ingredients": "Tomato sauce, mozzarella, prosciutto cotto, salami milano, sausages, bacon",
+    "name": "Con carne",
+    "price": "5.49 $",
+    "category": "pizza",
+    "quantity": "450-650 g"
+  },
+  "14": {
+    "image": "https://tazzcdn.akamaized.net/uploads/menu/3814/orig/Jalapeno.jpg",
+    "ingredients": "Tomato sauce, mozzarella, jalapeno mix, bacon, red onion",
+    "name": "Jalapeno",
+    "price": "5.49 $",
+    "category": "pizza",
+    "quantity": "450-650 g"
+  },
+  "15": {
+    "image": "https://tazzcdn.akamaized.net/uploads/menu/3814/orig/Marinara.jpg",
+    "ingredients": "Tomato sauce, garlic, oregano, olive oil",
+    "name": "Marinara",
+    "price": "4.49 $",
+    "category": "veganPizza",
+    "quantity": "450-650 g"
+  },
+  "16": {
+    "image": "https://tazzcdn.akamaized.net/uploads/menu/3814/orig/Pomodoro_e_Rucola.jpg",
+    "ingredients": "Tomato sauce, cherry tomatoes, arugula, balsamic cream",
+    "name": "Pomodoro e rucola",
+    "price": "4.49 $",
+    "category": "veganPizza",
+    "quantity": "450-650 g"
+  },
+  "17": {
+    "image": "https://tazzcdn.akamaized.net/uploads/menu/3814/orig/Focaccia.jpg",
+    "ingredients": "Olive oil, garlic, rosemary",
+    "name": "Focaccia",
+    "price": "3.99 $",
+    "category": "veganPizza",
+    "quantity": "450-650 g"
+  },
+  "18": {
+    "image": "https://tazzcdn.akamaized.net/uploads/menu/3814/orig/Anghinara.jpg",
+    "ingredients": "Tomato sauce, chickpeas, artichokes, tofu, peppers, garlic, basil",
+    "name": "Anghinara",
+    "price": "4.49 $",
+    "category": "veganPizza",
+    "quantity": "450-550 g g"
+  },
+  "19": {
+    "image": "https://tazzcdn.akamaized.net/uploads/menu/3814/orig/Anghinara.jpg",
+    "ingredients": "Tomato sauce (peeled tomatoes, green basil, sea salt never before), fresh champignon mushrooms, corn, fresh bell peppers, round black olives, fresh cherry tomatoes, Ceddar Verdino",
+    "name": "Verdino",
+    "price": "4.49 $",
+    "category": "veganPizza",
+    "quantity": "500 g"
+  },
+  "20": {
+    "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/easy-garlic-sauce-6c88870.jpg?quality=90&webp=true&resize=300,272",
+    "ingredients": "White sauce, garlic",
+    "name": "Garlic sauce",
+    "price": "0.99 $",
+    "category": "sauce",
+    "quantity": "450-650 g"
+  },
+  "21": {
+    "image": "https://thewoksoflife.com/wp-content/uploads/2020/07/chili-oil-recipe-18.jpg",
+    "ingredients": "Tomato sauce, mozzarella, prosciutto cotto, champignon mushrooms, garlic",
+    "name": "Chili pepper - spicy oil",
+    "price": "0.99 $",
+    "category": "sauce",
+    "quantity": "450-650 g"
+  },
+  "22": {
+    "image": "https://www.thermobexta.com.au/wp-content/uploads/2014/11/thermomix-tomato-ketchup.jpg.webp",
+    "ingredients": "Tomato sauce",
+    "name": "Tomato sauce - sweet",
+    "price": "0.99 $",
+    "category": "sauce",
+    "quantity": ""
+  },
+  "23": {
+    "image": "https://www.thermobexta.com.au/wp-content/uploads/2014/11/thermomix-tomato-ketchup.jpg.webp",
+    "ingredients": "Tomato sauce, chili",
+    "name": "Tomato sauce - spicy",
+    "price": "0.99 $",
+    "category": "sauce",
+    "quantity": ""
+  }
+}
